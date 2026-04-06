@@ -23,11 +23,12 @@ The system is designed as a **lightweight AI prototype**, focusing on text proce
 * ⏱️ Timer system (real test experience)
 * 📊 Automated band scoring (0–9 scale)
 * 💬 IELTS-like feedback generation
-* 🔍 NLP-based text analysis:
 
-  * Word count
-  * Vocabulary diversity
-  * Sentence complexity
+### 🔍 NLP-based text analysis:
+
+* Word count
+* Vocabulary diversity
+* Sentence complexity
 
 ---
 
@@ -35,12 +36,14 @@ The system is designed as a **lightweight AI prototype**, focusing on text proce
 
 The system follows a complete pipeline:
 
+```
 User Input (Essay)
 → Text Preprocessing
 → Feature Extraction (NLP)
 → Heuristic Scoring
 → Feedback Generation
 → Result Display
+```
 
 ---
 
@@ -81,27 +84,34 @@ The full production version includes more advanced NLP models and deeper evaluat
 
 1. Clone this repository:
 
+   ```
    git clone https://github.com/yourusername/ielts-writing-ai-scoring.git
+   ```
 
 2. Move the project to your XAMPP `htdocs` folder
 
 3. Import the database:
 
    * Open phpMyAdmin
-   * Import `database.sql`
+   * Import `ielts_writing_test.sql`
 
 4. Configure database connection in:
 
+   ```
    config/db.php
+   ```
 
 5. Run the project:
 
+   ```
    http://localhost/writing_ielts_ai/writing-test.php
+   ```
 
 ---
 
 ## 📁 Project Structure
 
+```
 writing_ielts_ai/
 │
 ├── assets/
@@ -118,6 +128,7 @@ writing_ielts_ai/
 │
 ├── ielts_writing_test.sql
 └── README.md
+```
 
 ---
 
@@ -142,9 +153,15 @@ This project was developed as:
 
 ## 👩‍💻 Author
 
-Developed by **Wani Syafitri**
+**Wani Syafitri**
 LPDP Awardee | Master's in Computer Science
-Focus: Artificial Intelligence, NLP, AI-based Education Systems, and Backend Development (PHP, Javascript, and MySQL)
+
+Focus:
+
+* Artificial Intelligence
+* Natural Language Processing (NLP)
+* AI-based Education Systems
+* Backend Development (PHP, JavaScript, MySQL)
 
 ---
 
