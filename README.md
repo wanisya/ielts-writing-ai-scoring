@@ -171,6 +171,7 @@ Focus:
 - Email: wanisyf@gmail.com
 - Kaggle: https://www.kaggle.com/wanisyafitri20
 - LinkedIn: https://www.linkedin.com/in/wani-syafitri-3bbb90258/
+- ResearchGate: https://www.researchgate.net/profile/Wani-Syafitri?ev=hdr_xprf
 
 ---
 
