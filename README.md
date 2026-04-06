@@ -165,6 +165,14 @@ Focus:
 
 ---
 
+## 📬 Contact
+
+GitHub: https://github.com/wanisya
+Email: wanisyf@gmail.com
+Kaggle: https://www.kaggle.com/wanisyafitri20
+
+---
+
 ## ⭐ If you find this project useful
 
 Give it a star ⭐ on GitHub!
